@@ -1,4 +1,4 @@
-# demsi-RS-422
+# XXX
 
 ### Geography
 
@@ -6,7 +6,7 @@ I live in the city of **Hamburg**, Germany.
 
 ### Favorite colour
 
-- blue 
+- **blue** 
 
 ### Three favorite activities
 
